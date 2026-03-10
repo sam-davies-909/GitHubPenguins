@@ -9,9 +9,9 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
-**Species studied:** Queen's, College, and Oxford
+**Species studied:** Thomas, Kate, and Emily
 
-**Research location:** Islands used to record data were called Torgerson, Biscoe and Dream
+**Research location:** Islands used to record data were called Carrodus, Aldates, and Cardo
 
 **Sample size:** more than 10
 
