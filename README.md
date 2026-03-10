@@ -9,13 +9,13 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
-**Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
+**Species studied:** Queen's, College, and Oxford
 
 **Research location:** Islands used to record data were called Torgerson, Biscoe and Dream
 
 **Sample size:** more than 10
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** between 0BC and 30AD
 
 ## Variables Measured
 
